@@ -1,2 +1,2 @@
 # RestFb-Example
-A java console application to use graph api using www.restfb.com api
+A java console application to use facebook's graph api using www.restfb.com api
